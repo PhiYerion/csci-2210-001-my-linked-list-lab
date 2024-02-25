@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LinkedListLab/1.0.0": {
+        "dependencies": {
+          "MyDataStructures": "1.0.0"
+        },
+        "runtime": {
+          "LinkedListLab.dll": {}
+        }
+      },
+      "MyDataStructures/1.0.0": {
+        "runtime": {
+          "MyDataStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedListLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyDataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

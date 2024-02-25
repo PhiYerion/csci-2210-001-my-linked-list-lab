@@ -1,0 +1,11 @@
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/bin/Debug/net8.0/MyDataStructures.deps.json
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/bin/Debug/net8.0/MyDataStructures.dll
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/bin/Debug/net8.0/MyDataStructures.pdb
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/obj/Debug/net8.0/MyDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/obj/Debug/net8.0/MyDataStructures.AssemblyInfoInputs.cache
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/obj/Debug/net8.0/MyDataStructures.AssemblyInfo.cs
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/obj/Debug/net8.0/MyDataStructures.csproj.CoreCompileInputs.cache
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/obj/Debug/net8.0/MyDataStructures.dll
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/obj/Debug/net8.0/refint/MyDataStructures.dll
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/obj/Debug/net8.0/MyDataStructures.pdb
+/home/user/school/datastructures/LinkedListLab/MyDataStructures/obj/Debug/net8.0/ref/MyDataStructures.dll

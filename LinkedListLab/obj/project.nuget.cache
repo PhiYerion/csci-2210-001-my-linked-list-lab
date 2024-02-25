@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dqt85rqRg+wODuwi2QLI8+pM2F5RlZW0HnPdsSqU7weS/2hIuPVXQsQC21Mhwho5ycYtmu7ecO+VuRX4UyceKg==",
+  "success": true,
+  "projectFilePath": "/home/user/school/datastructures/LinkedListLab/LinkedListLab/LinkedListLab.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
